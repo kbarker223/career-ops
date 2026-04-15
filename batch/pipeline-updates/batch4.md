@@ -1,0 +1,5 @@
+- [x] https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199 | Spotify | Data Scientist - Growth Analytics (Performance Marketing) | #054 | 2.8/5 | SKIP
+- [x] https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac | Spotify | Data Scientist - Music Mission | #055 | 2.6/5 | SKIP
+- [x] https://jobs.lever.co/spotify/71c28dec-d4a1-4e27-bb9b-1dab4a616ce5 | Spotify | Data Scientist - Platform Mission | #056 | 2.5/5 | SKIP
+- [x] https://jobs.lever.co/spotify/a95830ad-c11f-49da-85a7-04ce47ce532c | Spotify | Data Scientist, Subscriptions | #057 | 2.9/5 | SKIP
+- [x] https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7681918003 | Ivanti | Entry Level Data Analyst | #058 | 3.8/5 | BORDERLINE

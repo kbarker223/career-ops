@@ -1,0 +1,5 @@
+- [x] https://app.careerpuck.com/job-board/lyft/job/8378473002 | Lyft | Data Scientist, Decisions - Central Market Management | #044 | 2.8/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8448179002 | Lyft | Data Scientist - Decisions, Mapping (Toronto) | #045 | 2.5/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8485432002 | Lyft | Data Scientist - Machine Learning, Pricing & Rider Engagement | #046 | 3.0/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8402782002 | Lyft | Data Scientist, Supply and Operations Technology, Lyft Urban Solutions | #047 | 2.7/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8504702002 | Lyft | Financial Analyst (Toronto) | #048 | 3.3/5 | SKIP

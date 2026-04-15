@@ -1,0 +1,5 @@
+- [x] https://app.careerpuck.com/job-board/lyft/job/8403370002 | Lyft | Applied Scientist - Pricing, Dynamic Pricing & Offer Selection | #039 | 2.4/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8330595002 | Lyft | Data Scientist, Algorithms - Lyft Ads (NYC) | #040 | 2.3/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8330398002 | Lyft | Data Scientist, Algorithms - Lyft Ads (SF) | #041 | 2.3/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8405008002 | Lyft | Data Scientist, Algorithms, ML - Fulfillment (Seattle) | #042 | 2.6/5 | SKIP
+- [x] https://app.careerpuck.com/job-board/lyft/job/8335733002 | Lyft | Data Scientist, Algorithms, Optimization - Fulfillment (NYC) | #043 | 2.5/5 | SKIP

@@ -1,0 +1,5 @@
+- [x] https://databricks.com/company/careers/open-positions/job?gh_jid=8414474002 | Databricks | Financial Analyst | #049 | 3.0/5 | SKIP
+- [x] https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050 | Spotify | Data Analyst II - Performance Optimization Squad | #050 | 2.0/5 | SKIP
+- [x] https://jobs.lever.co/spotify/1a78f396-2295-4fa0-8c44-9a6cdd21b1b9 | Spotify | Data Scientist - AdCo Product Insights | #051 | 2.8/5 | SKIP
+- [x] https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f | Spotify | Data Scientist - Company Planning and Execution (CPE) | #052 | 1.8/5 | SKIP
+- [x] https://jobs.lever.co/spotify/cc60212e-e20b-407e-a877-32b3d8dfe11a | Spotify | Data Scientist - Content Understanding | #053 | 1.8/5 | SKIP

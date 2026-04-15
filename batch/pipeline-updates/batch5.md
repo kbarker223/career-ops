@@ -1,0 +1,5 @@
+- [x] https://job-boards.greenhouse.io/tensorops/jobs/4645597101 | TensorOps | Entry Level Data Scientist | #059 | 4.1/5 | APPLY
+- [x] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4617714006 | Accenture Federal Services | Data and AI Analyst | #060 | 2.8/5 | SKIP
+- [x] https://boards.greenhouse.io/ziprecruiter/jobs/4547149 | ZipRecruiter | Data Scientist / Machine Learning Engineer - New Grad | #061 | 4.4/5 | APPLY
+- [x] https://job-boards.greenhouse.io/springhealth66/jobs/4663735005 | Spring Health | Business Analyst, Operations Performance | #062 | 3.2/5 | BORDERLINE
+- [x] https://job-boards.greenhouse.io/goodwaygroup/jobs/5819360004 | Goodway Group | Global Data Analyst | #063 | 3.4/5 | BORDERLINE
